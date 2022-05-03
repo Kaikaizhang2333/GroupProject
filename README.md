@@ -13,13 +13,13 @@ This programming file aims to plot the image of the S(Susceptible),I(Infective)a
 -----
 This programme need to be run in a python programming environment like Spyder.
 
-If you don't have the programming environment, please download it from the google.
+If you don't have any programming environment, please click [here](https://www.python.org/downloads/).
 
 **Usage**
 -----
 This project is desgined to plot the diagram and then make the model to predict the future changes in the coming 28days from 28th April according to the collected covid-19 data in bristol from the NHS website.
 
-**Maintainers**
+**Contributors**
 -----
 @Zian Li, the UoB email address is sp20866@bristol.ac.uk, student number is 2084511, 
 
